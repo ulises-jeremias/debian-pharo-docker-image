@@ -1,4 +1,4 @@
-FROM debian
+FROM debian:stretch
 
 MAINTAINER Ulises Jeremias Cornejo Fandos <ulisescf.24@gmail.com>
 
